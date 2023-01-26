@@ -1,4 +1,4 @@
-### Olá sou o Jorge 👋 !!!!! 
+### Hi , i'm  o Jorge 👋 !!!!! 
 
 - 🔭 I’m not working
 - 🌱 I’m currently learning Angular, Typescript, Node , HTML, CSS, JS.
