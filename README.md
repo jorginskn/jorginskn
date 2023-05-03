@@ -1,6 +1,6 @@
 ### Hi , i'm  o Jorge 👋 !!!!! 
 
-- 🔭 I’m not working
+- 🔭 I’m  working with c# and angular
 - 🌱 I’m currently learning Angular, React, Typescript, Node ,JS ,C#,  HTML, CSS, .
 - 💬 Ask me about ...
 - 📫 How to reach me:  Brasília/DF Brazil.
