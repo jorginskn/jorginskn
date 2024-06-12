@@ -1,8 +1,7 @@
 ### Hi , i'm  o Jorge 👋 !!!!! 
 
 - 🔭 I’m  working with c# and angular
-- 🌱 I’m currently learning Angular, React, Typescript, Node ,JS ,C#,  HTML, CSS, .
-- 💬 Ask me about ...
+- 🌱 I’m currently learning Angular, React, Typescript,.NET ,C#
 - 📫 How to reach me:  Brasília/DF Brazil.
 - 😄 Pronouns: He / His
 
